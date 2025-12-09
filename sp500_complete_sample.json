@@ -3,2310 +3,3465 @@
     "Symbol": "MMM",
     "Name": "3M",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Conglomerates"
+    "GICS Sub-Industry": "Industrial Conglomerates",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AOS",
     "Name": "A. O. Smith",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ABT",
     "Name": "Abbott Laboratories",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ABBV",
     "Name": "AbbVie",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "ACN",
     "Name": "Accenture",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "IT Consulting & Other Services"
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ADBE",
     "Name": "Adobe Inc.",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AMD",
     "Name": "Advanced Micro Devices",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "AES",
     "Name": "AES Corporation",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Independent Power Producers & Energy Traders"
+    "GICS Sub-Industry": "Independent Power Producers & Energy Traders",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
   },
   {
     "Symbol": "AFL",
     "Name": "Aflac",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Life & Health Insurance"
+    "GICS Sub-Industry": "Life & Health Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "A",
     "Name": "Agilent Technologies",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "APD",
     "Name": "Air Products",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Industrial Gases"
+    "GICS Sub-Industry": "Industrial Gases",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ABNB",
     "Name": "Airbnb",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AKAM",
     "Name": "Akamai Technologies",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Internet Services & Infrastructure"
+    "GICS Sub-Industry": "Internet Services & Infrastructure",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ALB",
     "Name": "Albemarle Corporation",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Specialty Chemicals"
+    "GICS Sub-Industry": "Specialty Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "ARE",
     "Name": "Alexandria Real Estate Equities",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Office REITs"
+    "GICS Sub-Industry": "Office REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ALGN",
     "Name": "Align Technology",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Supplies"
+    "GICS Sub-Industry": "Health Care Supplies",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ALLE",
     "Name": "Allegion",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LNT",
     "Name": "Alliant Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ALL",
     "Name": "Allstate",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance"
+    "GICS Sub-Industry": "Property & Casualty Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GOOGL",
     "Name": "Alphabet Inc. (Class A)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Interactive Media & Services"
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "GOOG",
     "Name": "Alphabet Inc. (Class C)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Interactive Media & Services"
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "MO",
     "Name": "Altria",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Tobacco"
+    "GICS Sub-Industry": "Tobacco",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "AMZN",
     "Name": "Amazon",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Broadline Retail"
+    "GICS Sub-Industry": "Broadline Retail",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AMCR",
     "Name": "Amcor",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials"
+    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "AEE",
     "Name": "Ameren",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AEP",
     "Name": "American Electric Power",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AXP",
     "Name": "American Express",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Consumer Finance"
+    "GICS Sub-Industry": "Consumer Finance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AIG",
     "Name": "American International Group",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Multi-line Insurance"
+    "GICS Sub-Industry": "Multi-line Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AMT",
     "Name": "American Tower",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Telecom Tower REITs"
+    "GICS Sub-Industry": "Telecom Tower REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AWK",
     "Name": "American Water Works",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Water Utilities"
+    "GICS Sub-Industry": "Water Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
   },
   {
     "Symbol": "AMP",
     "Name": "Ameriprise Financial",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AME",
     "Name": "Ametek",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Electrical Components & Equipment"
+    "GICS Sub-Industry": "Electrical Components & Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AMGN",
     "Name": "Amgen",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "APH",
     "Name": "Amphenol",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Electronic Components"
+    "GICS Sub-Industry": "Electronic Components",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ADI",
     "Name": "Analog Devices",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AON",
     "Name": "Aon plc",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Insurance Brokers"
+    "GICS Sub-Industry": "Insurance Brokers",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "APA",
     "Name": "APA Corporation",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "AAPL",
     "Name": "Apple Inc.",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals"
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "AMAT",
     "Name": "Applied Materials",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductor Materials & Equipment"
+    "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "APTV",
     "Name": "Aptiv",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automotive Parts & Equipment"
+    "GICS Sub-Industry": "Automotive Parts & Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ACGL",
     "Name": "Arch Capital Group",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance"
+    "GICS Sub-Industry": "Property & Casualty Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ADM",
     "Name": "Archer Daniels Midland",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Agricultural Products & Services"
+    "GICS Sub-Industry": "Agricultural Products & Services",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ANET",
     "Name": "Arista Networks",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Communications Equipment"
+    "GICS Sub-Industry": "Communications Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AJG",
     "Name": "Arthur J. Gallagher & Co.",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Insurance Brokers"
+    "GICS Sub-Industry": "Insurance Brokers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AIZ",
     "Name": "Assurant",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Multi-line Insurance"
+    "GICS Sub-Industry": "Multi-line Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "T",
     "Name": "AT&T",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Integrated Telecommunication Services"
+    "GICS Sub-Industry": "Integrated Telecommunication Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ATO",
     "Name": "Atmos Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Gas Utilities"
+    "GICS Sub-Industry": "Gas Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ADSK",
     "Name": "Autodesk",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ADP",
     "Name": "Automatic Data Processing",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Human Resource & Employment Services"
+    "GICS Sub-Industry": "Human Resource & Employment Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AZO",
     "Name": "AutoZone",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automotive Retail"
+    "GICS Sub-Industry": "Automotive Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AVB",
     "Name": "AvalonBay Communities",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Multi-Family Residential REITs"
+    "GICS Sub-Industry": "Multi-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AVY",
     "Name": "Avery Dennison",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials"
+    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "AXON",
     "Name": "Axon Enterprise",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "BKR",
     "Name": "Baker Hughes",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Equipment & Services"
+    "GICS Sub-Industry": "Oil & Gas Equipment & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "BALL",
     "Name": "Ball Corporation",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Metal, Glass & Plastic Containers"
+    "GICS Sub-Industry": "Metal, Glass & Plastic Containers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BAC",
     "Name": "Bank of America",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Diversified Banks"
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BAX",
     "Name": "Baxter International",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BDX",
     "Name": "Becton Dickinson",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BRK.B",
     "Name": "Berkshire Hathaway",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Multi-Sector Holdings"
+    "GICS Sub-Industry": "Multi-Sector Holdings",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BBY",
     "Name": "Best Buy",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Computer & Electronics Retail"
+    "GICS Sub-Industry": "Computer & Electronics Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "TECH",
     "Name": "Bio-Techne",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "BIIB",
     "Name": "Biogen",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "BLK",
     "Name": "BlackRock",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BK",
     "Name": "BNY Mellon",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BA",
     "Name": "Boeing",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "BKNG",
     "Name": "Booking Holdings",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BSX",
     "Name": "Boston Scientific",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BMY",
     "Name": "Bristol Myers Squibb",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Pharmaceuticals"
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AVGO",
     "Name": "Broadcom",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "BR",
     "Name": "Broadridge Financial Solutions",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Data Processing & Outsourced Services"
+    "GICS Sub-Industry": "Data Processing & Outsourced Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BRO",
     "Name": "Brown & Brown",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Insurance Brokers"
+    "GICS Sub-Industry": "Insurance Brokers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BF.B",
     "Name": "Brown\u2013Forman",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Distillers & Vintners"
+    "GICS Sub-Industry": "Distillers & Vintners",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BLDR",
     "Name": "Builders FirstSource",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BG",
     "Name": "Bunge Global",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Agricultural Products & Services"
+    "GICS Sub-Industry": "Agricultural Products & Services",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BXP",
     "Name": "BXP, Inc.",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Office REITs"
+    "GICS Sub-Industry": "Office REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CHRW",
     "Name": "C.H. Robinson",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Air Freight & Logistics"
+    "GICS Sub-Industry": "Air Freight & Logistics",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CDNS",
     "Name": "Cadence Design Systems",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CPT",
     "Name": "Camden Property Trust",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Multi-Family Residential REITs"
+    "GICS Sub-Industry": "Multi-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CPB",
     "Name": "Campbell's Company (The)",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "COF",
     "Name": "Capital One",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Consumer Finance"
+    "GICS Sub-Industry": "Consumer Finance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CAH",
     "Name": "Cardinal Health",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Distributors"
+    "GICS Sub-Industry": "Health Care Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CCL",
     "Name": "Carnival",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CARR",
     "Name": "Carrier Global",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CAT",
     "Name": "Caterpillar Inc.",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment"
+    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CBOE",
     "Name": "Cboe Global Markets",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CBRE",
     "Name": "CBRE Group",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Real Estate Services"
+    "GICS Sub-Industry": "Real Estate Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CDW",
     "Name": "CDW Corporation",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Technology Distributors"
+    "GICS Sub-Industry": "Technology Distributors",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "COR",
     "Name": "Cencora",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Distributors"
+    "GICS Sub-Industry": "Health Care Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CNC",
     "Name": "Centene Corporation",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Managed Health Care"
+    "GICS Sub-Industry": "Managed Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CNP",
     "Name": "CenterPoint Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CF",
     "Name": "CF Industries",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals"
+    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "CRL",
     "Name": "Charles River Laboratories",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "SCHW",
     "Name": "Charles Schwab Corporation",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Investment Banking & Brokerage"
+    "GICS Sub-Industry": "Investment Banking & Brokerage",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CHTR",
     "Name": "Charter Communications",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Cable & Satellite"
+    "GICS Sub-Industry": "Cable & Satellite",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CVX",
     "Name": "Chevron Corporation",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Integrated Oil & Gas"
+    "GICS Sub-Industry": "Integrated Oil & Gas",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "CMG",
     "Name": "Chipotle Mexican Grill",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Restaurants"
+    "GICS Sub-Industry": "Restaurants",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CB",
     "Name": "Chubb Limited",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance"
+    "GICS Sub-Industry": "Property & Casualty Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CHD",
     "Name": "Church & Dwight",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Household Products"
+    "GICS Sub-Industry": "Household Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CI",
     "Name": "Cigna",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Services"
+    "GICS Sub-Industry": "Health Care Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CINF",
     "Name": "Cincinnati Financial",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance"
+    "GICS Sub-Industry": "Property & Casualty Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CTAS",
     "Name": "Cintas",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Diversified Support Services"
+    "GICS Sub-Industry": "Diversified Support Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CSCO",
     "Name": "Cisco",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Communications Equipment"
+    "GICS Sub-Industry": "Communications Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "C",
     "Name": "Citigroup",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Diversified Banks"
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CFG",
     "Name": "Citizens Financial Group",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Regional Banks"
+    "GICS Sub-Industry": "Regional Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CLX",
     "Name": "Clorox",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Household Products"
+    "GICS Sub-Industry": "Household Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CME",
     "Name": "CME Group",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CMS",
     "Name": "CMS Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KO",
     "Name": "Coca-Cola Company (The)",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages"
+    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CTSH",
     "Name": "Cognizant",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "IT Consulting & Other Services"
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CL",
     "Name": "Colgate-Palmolive",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Household Products"
+    "GICS Sub-Industry": "Household Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CMCSA",
     "Name": "Comcast",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Cable & Satellite"
+    "GICS Sub-Industry": "Cable & Satellite",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CAG",
     "Name": "Conagra Brands",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "COP",
     "Name": "ConocoPhillips",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "ED",
     "Name": "Consolidated Edison",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "STZ",
     "Name": "Constellation Brands",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Distillers & Vintners"
+    "GICS Sub-Industry": "Distillers & Vintners",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CEG",
     "Name": "Constellation Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "COO",
     "Name": "Cooper Companies (The)",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Supplies"
+    "GICS Sub-Industry": "Health Care Supplies",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CPRT",
     "Name": "Copart",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Diversified Support Services"
+    "GICS Sub-Industry": "Diversified Support Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GLW",
     "Name": "Corning Inc.",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Electronic Components"
+    "GICS Sub-Industry": "Electronic Components",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CTVA",
     "Name": "Corteva",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals"
+    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "CSGP",
     "Name": "CoStar Group",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Real Estate Services"
+    "GICS Sub-Industry": "Real Estate Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "COST",
     "Name": "Costco",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Consumer Staples Merchandise Retail"
+    "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CTRA",
     "Name": "Coterra",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "CCI",
     "Name": "Crown Castle",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Telecom Tower REITs"
+    "GICS Sub-Industry": "Telecom Tower REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CSX",
     "Name": "CSX Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Rail Transportation"
+    "GICS Sub-Industry": "Rail Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CMI",
     "Name": "Cummins",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment"
+    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CVS",
     "Name": "CVS Health",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Services"
+    "GICS Sub-Industry": "Health Care Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DHR",
     "Name": "Danaher Corporation",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "DRI",
     "Name": "Darden Restaurants",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Restaurants"
+    "GICS Sub-Industry": "Restaurants",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DVA",
     "Name": "DaVita",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Services"
+    "GICS Sub-Industry": "Health Care Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DECK",
     "Name": "Deckers Brands",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Footwear"
+    "GICS Sub-Industry": "Footwear",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DE",
     "Name": "Deere & Company",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Agricultural & Farm Machinery"
+    "GICS Sub-Industry": "Agricultural & Farm Machinery",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DAL",
     "Name": "Delta Air Lines",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Passenger Airlines"
+    "GICS Sub-Industry": "Passenger Airlines",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DVN",
     "Name": "Devon Energy",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "DXCM",
     "Name": "Dexcom",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FANG",
     "Name": "Diamondback Energy",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "DLR",
     "Name": "Digital Realty",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Data Center REITs"
+    "GICS Sub-Industry": "Data Center REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DG",
     "Name": "Dollar General",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Consumer Staples Merchandise Retail"
+    "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DLTR",
     "Name": "Dollar Tree",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Consumer Staples Merchandise Retail"
+    "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "D",
     "Name": "Dominion Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DPZ",
     "Name": "Domino's",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Restaurants"
+    "GICS Sub-Industry": "Restaurants",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DOV",
     "Name": "Dover Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DOW",
     "Name": "Dow Inc.",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Commodity Chemicals"
+    "GICS Sub-Industry": "Commodity Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "DHI",
     "Name": "D. R. Horton",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Homebuilding"
+    "GICS Sub-Industry": "Homebuilding",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DTE",
     "Name": "DTE Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DUK",
     "Name": "Duke Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DD",
     "Name": "DuPont",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Specialty Chemicals"
+    "GICS Sub-Industry": "Specialty Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "ETN",
     "Name": "Eaton Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Electrical Components & Equipment"
+    "GICS Sub-Industry": "Electrical Components & Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EBAY",
     "Name": "eBay Inc.",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Broadline Retail"
+    "GICS Sub-Industry": "Broadline Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ECL",
     "Name": "Ecolab",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Specialty Chemicals"
+    "GICS Sub-Industry": "Specialty Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "EIX",
     "Name": "Edison International",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EW",
     "Name": "Edwards Lifesciences",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EA",
     "Name": "Electronic Arts",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Interactive Home Entertainment"
+    "GICS Sub-Industry": "Interactive Home Entertainment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ELV",
     "Name": "Elevance Health",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Managed Health Care"
+    "GICS Sub-Industry": "Managed Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EMR",
     "Name": "Emerson Electric",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Electrical Components & Equipment"
+    "GICS Sub-Industry": "Electrical Components & Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ETR",
     "Name": "Entergy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EOG",
     "Name": "EOG Resources",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "EPAM",
     "Name": "EPAM Systems",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "IT Consulting & Other Services"
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EQT",
     "Name": "EQT Corporation",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "EFX",
     "Name": "Equifax",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Research & Consulting Services"
+    "GICS Sub-Industry": "Research & Consulting Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EQIX",
     "Name": "Equinix",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Data Center REITs"
+    "GICS Sub-Industry": "Data Center REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EQR",
     "Name": "Equity Residential",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Multi-Family Residential REITs"
+    "GICS Sub-Industry": "Multi-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ESS",
     "Name": "Essex Property Trust",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Multi-Family Residential REITs"
+    "GICS Sub-Industry": "Multi-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EL",
     "Name": "Est\u00e9e Lauder Companies (The)",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Personal Care Products"
+    "GICS Sub-Industry": "Personal Care Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EG",
     "Name": "Everest Group",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Reinsurance"
+    "GICS Sub-Industry": "Reinsurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EVRG",
     "Name": "Evergy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ES",
     "Name": "Eversource Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EXC",
     "Name": "Exelon",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EXPE",
     "Name": "Expedia Group",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EXPD",
     "Name": "Expeditors International",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Air Freight & Logistics"
+    "GICS Sub-Industry": "Air Freight & Logistics",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EXR",
     "Name": "Extra Space Storage",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Self-Storage REITs"
+    "GICS Sub-Industry": "Self-Storage REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XOM",
     "Name": "ExxonMobil",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Integrated Oil & Gas"
+    "GICS Sub-Industry": "Integrated Oil & Gas",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "FFIV",
     "Name": "F5, Inc.",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Communications Equipment"
+    "GICS Sub-Industry": "Communications Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FDS",
     "Name": "FactSet",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FICO",
     "Name": "Fair Isaac",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FAST",
     "Name": "Fastenal",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Trading Companies & Distributors"
+    "GICS Sub-Industry": "Trading Companies & Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FRT",
     "Name": "Federal Realty Investment Trust",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Retail REITs"
+    "GICS Sub-Industry": "Retail REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FDX",
     "Name": "FedEx",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Air Freight & Logistics"
+    "GICS Sub-Industry": "Air Freight & Logistics",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FIS",
     "Name": "Fidelity National Information Services",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FITB",
     "Name": "Fifth Third Bancorp",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Regional Banks"
+    "GICS Sub-Industry": "Regional Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FSLR",
     "Name": "First Solar",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "ESG Leader"
   },
   {
     "Symbol": "FE",
     "Name": "FirstEnergy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Electric Utilities"
+    "GICS Sub-Industry": "Electric Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FISV",
     "Name": "Fiserv",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "F",
     "Name": "Ford Motor Company",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automobile Manufacturers"
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FTNT",
     "Name": "Fortinet",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Systems Software"
+    "GICS Sub-Industry": "Systems Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FTV",
     "Name": "Fortive",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FOXA",
     "Name": "Fox Corporation (Class A)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Broadcasting"
+    "GICS Sub-Industry": "Broadcasting",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FOX",
     "Name": "Fox Corporation (Class B)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Broadcasting"
+    "GICS Sub-Industry": "Broadcasting",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BEN",
     "Name": "Franklin Resources",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "FCX",
     "Name": "Freeport-McMoRan",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Copper"
+    "GICS Sub-Industry": "Copper",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GRMN",
     "Name": "Garmin",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Consumer Electronics"
+    "GICS Sub-Industry": "Consumer Electronics",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IT",
     "Name": "Gartner",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "IT Consulting & Other Services"
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GE",
     "Name": "GE Aerospace",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "GEHC",
     "Name": "GE HealthCare",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GEV",
     "Name": "GE Vernova",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Heavy Electrical Equipment"
+    "GICS Sub-Industry": "Heavy Electrical Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GEN",
     "Name": "Gen Digital",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Systems Software"
+    "GICS Sub-Industry": "Systems Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GNRC",
     "Name": "Generac",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Electrical Components & Equipment"
+    "GICS Sub-Industry": "Electrical Components & Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GD",
     "Name": "General Dynamics",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "GIS",
     "Name": "General Mills",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GM",
     "Name": "General Motors",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automobile Manufacturers"
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GPC",
     "Name": "Genuine Parts Company",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Distributors"
+    "GICS Sub-Industry": "Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GILD",
     "Name": "Gilead Sciences",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "GPN",
     "Name": "Global Payments",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GL",
     "Name": "Globe Life",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Life & Health Insurance"
+    "GICS Sub-Industry": "Life & Health Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GDDY",
     "Name": "GoDaddy",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Internet Services & Infrastructure"
+    "GICS Sub-Industry": "Internet Services & Infrastructure",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GS",
     "Name": "Goldman Sachs",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Investment Banking & Brokerage"
+    "GICS Sub-Industry": "Investment Banking & Brokerage",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HAL",
     "Name": "Halliburton",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Equipment & Services"
+    "GICS Sub-Industry": "Oil & Gas Equipment & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "HIG",
     "Name": "Hartford (The)",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Property & Casualty Insurance"
+    "GICS Sub-Industry": "Property & Casualty Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HAS",
     "Name": "Hasbro",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Leisure Products"
+    "GICS Sub-Industry": "Leisure Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HCA",
     "Name": "HCA Healthcare",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Facilities"
+    "GICS Sub-Industry": "Health Care Facilities",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DOC",
     "Name": "Healthpeak Properties",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Health Care REITs"
+    "GICS Sub-Industry": "Health Care REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HSIC",
     "Name": "Henry Schein",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Distributors"
+    "GICS Sub-Industry": "Health Care Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HSY",
     "Name": "Hershey Company (The)",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HPE",
     "Name": "Hewlett Packard Enterprise",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals"
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HLT",
     "Name": "Hilton Worldwide",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HOLX",
     "Name": "Hologic",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HD",
     "Name": "Home Depot (The)",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Home Improvement Retail"
+    "GICS Sub-Industry": "Home Improvement Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HON",
     "Name": "Honeywell",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Conglomerates"
+    "GICS Sub-Industry": "Industrial Conglomerates",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HRL",
     "Name": "Hormel Foods",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HST",
     "Name": "Host Hotels & Resorts",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Hotel & Resort REITs"
+    "GICS Sub-Industry": "Hotel & Resort REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HWM",
     "Name": "Howmet Aerospace",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "HPQ",
     "Name": "HP Inc.",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals"
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HUBB",
     "Name": "Hubbell Incorporated",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HUM",
     "Name": "Humana",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Managed Health Care"
+    "GICS Sub-Industry": "Managed Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HBAN",
     "Name": "Huntington Bancshares",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Regional Banks"
+    "GICS Sub-Industry": "Regional Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "HII",
     "Name": "Huntington Ingalls Industries",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "IBM",
     "Name": "IBM",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "IT Consulting & Other Services"
+    "GICS Sub-Industry": "IT Consulting & Other Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IEX",
     "Name": "IDEX Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IDXX",
     "Name": "Idexx Laboratories",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ITW",
     "Name": "Illinois Tool Works",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "INCY",
     "Name": "Incyte",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "IR",
     "Name": "Ingersoll Rand",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PODD",
     "Name": "Insulet Corporation",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "INTC",
     "Name": "Intel",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IBKR",
     "Name": "Interactive Brokers",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Investment Banking & Brokerage"
+    "GICS Sub-Industry": "Investment Banking & Brokerage",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ICE",
     "Name": "Intercontinental Exchange",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IFF",
     "Name": "International Flavors & Fragrances",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Specialty Chemicals"
+    "GICS Sub-Industry": "Specialty Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "IP",
     "Name": "International Paper",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials"
+    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "IPG",
     "Name": "Interpublic Group of Companies (The)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Advertising"
+    "GICS Sub-Industry": "Advertising",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "INTU",
     "Name": "Intuit",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ISRG",
     "Name": "Intuitive Surgical",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IVZ",
     "Name": "Invesco",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "INVH",
     "Name": "Invitation Homes",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Single-Family Residential REITs"
+    "GICS Sub-Industry": "Single-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IQV",
     "Name": "IQVIA",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "IRM",
     "Name": "Iron Mountain",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Other Specialized REITs"
+    "GICS Sub-Industry": "Other Specialized REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JBHT",
     "Name": "J.B. Hunt",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Cargo Ground Transportation"
+    "GICS Sub-Industry": "Cargo Ground Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JBL",
     "Name": "Jabil",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Electronic Manufacturing Services"
+    "GICS Sub-Industry": "Electronic Manufacturing Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JKHY",
     "Name": "Jack Henry & Associates",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "J",
     "Name": "Jacobs Solutions",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Construction & Engineering"
+    "GICS Sub-Industry": "Construction & Engineering",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JNJ",
     "Name": "Johnson & Johnson",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Pharmaceuticals"
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JCI",
     "Name": "Johnson Controls",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "JPM",
     "Name": "JPMorgan Chase",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Diversified Banks"
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "K",
     "Name": "Kellanova",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KVUE",
     "Name": "Kenvue",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Personal Care Products"
+    "GICS Sub-Industry": "Personal Care Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KDP",
     "Name": "Keurig Dr Pepper",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages"
+    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KEY",
     "Name": "KeyCorp",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Regional Banks"
+    "GICS Sub-Industry": "Regional Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KEYS",
     "Name": "Keysight Technologies",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Electronic Equipment & Instruments"
+    "GICS Sub-Industry": "Electronic Equipment & Instruments",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KMB",
     "Name": "Kimberly-Clark",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Household Products"
+    "GICS Sub-Industry": "Household Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KIM",
     "Name": "Kimco Realty",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Retail REITs"
+    "GICS Sub-Industry": "Retail REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KMI",
     "Name": "Kinder Morgan",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Storage & Transportation"
+    "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "KKR",
     "Name": "KKR & Co.",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KLAC",
     "Name": "KLA Corporation",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductor Materials & Equipment"
+    "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KHC",
     "Name": "Kraft Heinz",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "KR",
     "Name": "Kroger",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Food Retail"
+    "GICS Sub-Industry": "Food Retail",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LHX",
     "Name": "L3Harris",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "LH",
     "Name": "Labcorp",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Services"
+    "GICS Sub-Industry": "Health Care Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LRCX",
     "Name": "Lam Research",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductor Materials & Equipment"
+    "GICS Sub-Industry": "Semiconductor Materials & Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LW",
     "Name": "Lamb Weston",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LVS",
     "Name": "Las Vegas Sands",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Casinos & Gaming"
+    "GICS Sub-Industry": "Casinos & Gaming",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LDOS",
     "Name": "Leidos",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Diversified Support Services"
+    "GICS Sub-Industry": "Diversified Support Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LEN",
     "Name": "Lennar",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Homebuilding"
+    "GICS Sub-Industry": "Homebuilding",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LII",
     "Name": "Lennox International",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LLY",
     "Name": "Lilly (Eli)",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Pharmaceuticals"
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LIN",
     "Name": "Linde plc",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Industrial Gases"
+    "GICS Sub-Industry": "Industrial Gases",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LYV",
     "Name": "Live Nation Entertainment",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Movies & Entertainment"
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LKQ",
     "Name": "LKQ Corporation",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Distributors"
+    "GICS Sub-Industry": "Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LMT",
     "Name": "Lockheed Martin",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "L",
     "Name": "Loews Corporation",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Multi-line Insurance"
+    "GICS Sub-Industry": "Multi-line Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LOW",
     "Name": "Lowe's",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Home Improvement Retail"
+    "GICS Sub-Industry": "Home Improvement Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LULU",
     "Name": "Lululemon Athletica",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods"
+    "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LYB",
     "Name": "LyondellBasell",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Specialty Chemicals"
+    "GICS Sub-Industry": "Specialty Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "MTB",
     "Name": "M&T Bank",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Regional Banks"
+    "GICS Sub-Industry": "Regional Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MPC",
     "Name": "Marathon Petroleum",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Refining & Marketing"
+    "GICS Sub-Industry": "Oil & Gas Refining & Marketing",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "MAR",
     "Name": "Marriott International",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MMC",
     "Name": "Marsh McLennan",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Insurance Brokers"
+    "GICS Sub-Industry": "Insurance Brokers",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MLM",
     "Name": "Martin Marietta Materials",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Construction Materials"
+    "GICS Sub-Industry": "Construction Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MAS",
     "Name": "Masco",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Building Products"
+    "GICS Sub-Industry": "Building Products",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MA",
     "Name": "Mastercard",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MTCH",
     "Name": "Match Group",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Interactive Media & Services"
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MKC",
     "Name": "McCormick & Company",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MCD",
     "Name": "McDonald's",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Restaurants"
+    "GICS Sub-Industry": "Restaurants",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MCK",
     "Name": "McKesson Corporation",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Distributors"
+    "GICS Sub-Industry": "Health Care Distributors",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MDT",
     "Name": "Medtronic",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Health Care Equipment"
+    "GICS Sub-Industry": "Health Care Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MRK",
     "Name": "Merck & Co.",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Pharmaceuticals"
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "META",
     "Name": "Meta Platforms",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Interactive Media & Services"
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "MET",
     "Name": "MetLife",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Life & Health Insurance"
+    "GICS Sub-Industry": "Life & Health Insurance",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MTD",
     "Name": "Mettler Toledo",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "MGM",
     "Name": "MGM Resorts",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Casinos & Gaming"
+    "GICS Sub-Industry": "Casinos & Gaming",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MCHP",
     "Name": "Microchip Technology",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MU",
     "Name": "Micron Technology",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MSFT",
     "Name": "Microsoft",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Systems Software"
+    "GICS Sub-Industry": "Systems Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "MAA",
     "Name": "Mid-America Apartment Communities",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Multi-Family Residential REITs"
+    "GICS Sub-Industry": "Multi-Family Residential REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MRNA",
     "Name": "Moderna",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Biotechnology"
+    "GICS Sub-Industry": "Biotechnology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "MHK",
     "Name": "Mohawk Industries",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Home Furnishings"
+    "GICS Sub-Industry": "Home Furnishings",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MOH",
     "Name": "Molina Healthcare",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Managed Health Care"
+    "GICS Sub-Industry": "Managed Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "TAP",
     "Name": "Molson Coors Beverage Company",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Brewers"
+    "GICS Sub-Industry": "Brewers",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MDLZ",
     "Name": "Mondelez International",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Packaged Foods & Meats"
+    "GICS Sub-Industry": "Packaged Foods & Meats",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MPWR",
     "Name": "Monolithic Power Systems",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MNST",
     "Name": "Monster Beverage",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages"
+    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MCO",
     "Name": "Moody's Corporation",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MS",
     "Name": "Morgan Stanley",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Investment Banking & Brokerage"
+    "GICS Sub-Industry": "Investment Banking & Brokerage",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MOS",
     "Name": "Mosaic Company (The)",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals"
+    "GICS Sub-Industry": "Fertilizers & Agricultural Chemicals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "MSI",
     "Name": "Motorola Solutions",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Communications Equipment"
+    "GICS Sub-Industry": "Communications Equipment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "MSCI",
     "Name": "MSCI Inc.",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NDAQ",
     "Name": "Nasdaq, Inc.",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Financial Exchanges & Data"
+    "GICS Sub-Industry": "Financial Exchanges & Data",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NTAP",
     "Name": "NetApp",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals"
+    "GICS Sub-Industry": "Technology Hardware, Storage & Peripherals",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NFLX",
     "Name": "Netflix",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Movies & Entertainment"
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NEM",
     "Name": "Newmont",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Gold"
+    "GICS Sub-Industry": "Gold",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NWSA",
     "Name": "News Corp (Class A)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Publishing"
+    "GICS Sub-Industry": "Publishing",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NWS",
     "Name": "News Corp (Class B)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Publishing"
+    "GICS Sub-Industry": "Publishing",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NEE",
     "Name": "NextEra Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
   },
   {
     "Symbol": "NKE",
     "Name": "Nike, Inc.",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods"
+    "GICS Sub-Industry": "Apparel, Accessories & Luxury Goods",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NI",
     "Name": "NiSource",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Multi-Utilities"
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NDSN",
     "Name": "Nordson Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NSC",
     "Name": "Norfolk Southern",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Rail Transportation"
+    "GICS Sub-Industry": "Rail Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NTRS",
     "Name": "Northern Trust",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Asset Management & Custody Banks"
+    "GICS Sub-Industry": "Asset Management & Custody Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NOC",
     "Name": "Northrop Grumman",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "NCLH",
     "Name": "Norwegian Cruise Line Holdings",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines"
+    "GICS Sub-Industry": "Hotels, Resorts & Cruise Lines",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NRG",
     "Name": "NRG Energy",
     "GICS Sector": "Utilities",
-    "GICS Sub-Industry": "Independent Power Producers & Energy Traders"
+    "GICS Sub-Industry": "Independent Power Producers & Energy Traders",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
   },
   {
     "Symbol": "NUE",
     "Name": "Nucor",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Steel"
+    "GICS Sub-Industry": "Steel",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "NVDA",
     "Name": "Nvidia",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "NVR",
     "Name": "NVR, Inc.",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Homebuilding"
+    "GICS Sub-Industry": "Homebuilding",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "NXPI",
     "Name": "NXP Semiconductors",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ORLY",
     "Name": "O\u2019Reilly Automotive",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automotive Retail"
+    "GICS Sub-Industry": "Automotive Retail",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "OXY",
     "Name": "Occidental Petroleum",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Exploration & Production"
+    "GICS Sub-Industry": "Oil & Gas Exploration & Production",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "ODFL",
     "Name": "Old Dominion",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Cargo Ground Transportation"
+    "GICS Sub-Industry": "Cargo Ground Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "OMC",
     "Name": "Omnicom Group",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Advertising"
+    "GICS Sub-Industry": "Advertising",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "ON",
     "Name": "ON Semiconductor",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "OKE",
     "Name": "Oneok",
     "GICS Sector": "Energy",
-    "GICS Sub-Industry": "Oil & Gas Storage & Transportation"
+    "GICS Sub-Industry": "Oil & Gas Storage & Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "ORCL",
     "Name": "Oracle Corporation",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "OTIS",
     "Name": "Otis Worldwide",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components"
+    "GICS Sub-Industry": "Industrial Machinery & Supplies & Components",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PCAR",
     "Name": "Paccar",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment"
+    "GICS Sub-Industry": "Construction Machinery & Heavy Transportation Equipment",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PKG",
     "Name": "Packaging Corporation of America",
     "GICS Sector": "Materials",
-    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials"
+    "GICS Sub-Industry": "Paper & Plastic Packaging Products & Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
   },
   {
     "Symbol": "PEP",
     "Name": "PepsiCo",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages"
+    "GICS Sub-Industry": "Soft Drinks & Non-alcoholic Beverages",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PFE",
     "Name": "Pfizer Inc.",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Pharmaceuticals"
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PG",
     "Name": "Procter & Gamble",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Household Products"
+    "GICS Sub-Industry": "Household Products",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "PLD",
     "Name": "Prologis",
     "GICS Sector": "Real Estate",
-    "GICS Sub-Industry": "Industrial REITs"
+    "GICS Sub-Industry": "Industrial REITs",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "QCOM",
     "Name": "Qualcomm",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "RTX",
     "Name": "RTX Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Aerospace & Defense"
+    "GICS Sub-Industry": "Aerospace & Defense",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
   },
   {
     "Symbol": "SBUX",
     "Name": "Starbucks",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Restaurants"
+    "GICS Sub-Industry": "Restaurants",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "CRM",
     "Name": "Salesforce",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Application Software"
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "TSLA",
     "Name": "Tesla, Inc.",
     "GICS Sector": "Consumer Discretionary",
-    "GICS Sub-Industry": "Automobile Manufacturers"
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "TXN",
     "Name": "Texas Instruments",
     "GICS Sector": "Information Technology",
-    "GICS Sub-Industry": "Semiconductors"
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "TMO",
     "Name": "Thermo Fisher Scientific",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Life Sciences Tools & Services"
+    "GICS Sub-Industry": "Life Sciences Tools & Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Future-Proof"
   },
   {
     "Symbol": "TMUS",
     "Name": "T-Mobile US",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Wireless Telecommunication Services"
+    "GICS Sub-Industry": "Wireless Telecommunication Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "UNP",
     "Name": "Union Pacific Corporation",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Rail Transportation"
+    "GICS Sub-Industry": "Rail Transportation",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "UNH",
     "Name": "UnitedHealth Group",
     "GICS Sector": "Health Care",
-    "GICS Sub-Industry": "Managed Health Care"
+    "GICS Sub-Industry": "Managed Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "UPS",
     "Name": "United Parcel Service",
     "GICS Sector": "Industrials",
-    "GICS Sub-Industry": "Air Freight & Logistics"
+    "GICS Sub-Industry": "Air Freight & Logistics",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "V",
     "Name": "Visa Inc.",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Transaction & Payment Processing Services"
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "VZ",
     "Name": "Verizon Communications",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Integrated Telecommunication Services"
+    "GICS Sub-Industry": "Integrated Telecommunication Services",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "WMT",
     "Name": "Walmart",
     "GICS Sector": "Consumer Staples",
-    "GICS Sub-Industry": "Consumer Staples Merchandise Retail"
+    "GICS Sub-Industry": "Consumer Staples Merchandise Retail",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "DIS",
     "Name": "Walt Disney Company (The)",
     "GICS Sector": "Communication Services",
-    "GICS Sub-Industry": "Movies & Entertainment"
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "WFC",
     "Name": "Wells Fargo",
     "GICS Sector": "Financials",
-    "GICS Sub-Industry": "Diversified Banks"
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "SPY",
     "Name": "SPDR S&P 500 ETF Trust",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Large Cap"
+    "GICS Sub-Industry": "Equity - Large Cap",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IVV",
     "Name": "iShares Core S&P 500 ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Large Cap"
+    "GICS Sub-Industry": "Equity - Large Cap",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "VOO",
     "Name": "Vanguard S&P 500 ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Large Cap"
+    "GICS Sub-Industry": "Equity - Large Cap",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "QQQ",
     "Name": "Invesco QQQ Trust",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Technology/Growth"
+    "GICS Sub-Industry": "Equity - Technology/Growth",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "IWM",
     "Name": "iShares Russell 2000 ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Small Cap"
+    "GICS Sub-Industry": "Equity - Small Cap",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "EEM",
     "Name": "iShares MSCI Emerging Markets ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Emerging Markets"
+    "GICS Sub-Industry": "Equity - Emerging Markets",
+    "Region": "Emerging Markets",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "VEA",
     "Name": "Vanguard FTSE Developed Markets ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Equity - Developed Markets"
+    "GICS Sub-Industry": "Equity - Developed Markets",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "AGG",
     "Name": "iShares Core U.S. Aggregate Bond ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Fixed Income - Broad US"
+    "GICS Sub-Industry": "Fixed Income - Broad US",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "BND",
     "Name": "Vanguard Total Bond Market ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Fixed Income - Broad US"
+    "GICS Sub-Industry": "Fixed Income - Broad US",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "LQD",
     "Name": "iShares iBoxx $ Inv Grade Corporate Bond ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Fixed Income - Corporate"
+    "GICS Sub-Industry": "Fixed Income - Corporate",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "TLT",
     "Name": "iShares 20+ Year Treasury Bond ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Fixed Income - Treasury"
+    "GICS Sub-Industry": "Fixed Income - Treasury",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "GLD",
     "Name": "SPDR Gold Shares",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Commodities - Precious Metals"
+    "GICS Sub-Industry": "Commodities - Precious Metals",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "VNQ",
     "Name": "Vanguard Real Estate ETF",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Real Estate"
+    "GICS Sub-Industry": "Real Estate",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLE",
     "Name": "Energy Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Energy"
+    "GICS Sub-Industry": "Sector - Energy",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLF",
     "Name": "Financial Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Financials"
+    "GICS Sub-Industry": "Sector - Financials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLK",
     "Name": "Technology Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Technology"
+    "GICS Sub-Industry": "Sector - Technology",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLV",
     "Name": "Health Care Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Health Care"
+    "GICS Sub-Industry": "Sector - Health Care",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLY",
     "Name": "Consumer Discret. Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Cons. Disc."
+    "GICS Sub-Industry": "Sector - Cons. Disc.",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLP",
     "Name": "Consumer Staples Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Cons. Staples"
+    "GICS Sub-Industry": "Sector - Cons. Staples",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLI",
     "Name": "Industrial Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Industrials"
+    "GICS Sub-Industry": "Sector - Industrials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLU",
     "Name": "Utilities Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Utilities"
+    "GICS Sub-Industry": "Sector - Utilities",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   },
   {
     "Symbol": "XLB",
     "Name": "Materials Select Sector SPDR Fund",
     "GICS Sector": "ETF",
-    "GICS Sub-Industry": "Sector - Materials"
+    "GICS Sub-Industry": "Sector - Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
   }
 ]
