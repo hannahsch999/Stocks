@@ -4,40 +4,328 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
   <title>Live S&P 500 Estimator</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet" />
+
+  <!-- Space Grotesk from Google Fonts for BOTH headings and body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+
   <style>
-    body{font-family:'Montserrat',sans-serif;background:linear-gradient(120deg,#f8e3f0,#d1e3ff);color:#333;margin:0;min-height:100vh}
-    header{padding:20px;text-align:center;background:linear-gradient(90deg,#e8a9d6,#b3cfff);color:#4c3273;font-size:2em;font-weight:700;box-shadow:0 4px 12px #0000001a}
-    .status-bar{background:#fff;text-align:center;padding:10px;font-size:.9em;border-bottom:1px solid #eee}
-    .filters{display:flex;flex-wrap:wrap;gap:12px;padding:20px;justify-content:center;background:#fff2fa}
-    .filter-group{display:flex;flex-direction:column;background:#fed6ff;border-radius:12px;padding:10px;flex:1;min-width:140px;max-width:200px}
-    .filter-group label{font-weight:700;margin-bottom:5px;color:#4c3273;font-size:0.9em}
-    select{border:2px solid #fff;border-radius:8px;padding:4px;background:#fff;height:100px;font-size:0.85em}
-    .pink-btn{background:linear-gradient(90deg,#e8a9d6,#b3cfff);border:none;border-radius:20px;padding:12px 32px;margin:20px 0;color:#4c3273;font-weight:700;cursor:pointer;transition:.3s}
-    .pink-btn:hover:not(:disabled){transform:translateY(-2px);box-shadow:2px 6px 20px #d1e3ff}
-    .pink-btn:disabled{opacity:.6;cursor:not-allowed}
-    .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px;max-width:1200px;margin:20px auto;padding:20px}
-    .stock-card{background:#fff;border-radius:16px;padding:20px;box-shadow:0 4px 12px #0000000d;transition:.3s;position:relative}
-    .stock-card:hover{transform:translateY(-5px);box-shadow:0 8px 24px #e8a9d666}
-    .tags{display:flex;flex-wrap:wrap;gap:5px;margin:10px 0;font-size:0.75em}
-    .tag{padding:3px 8px;border-radius:10px;font-weight:600}
+    /* REMOVED the @font-face for Fussion */
+
+    :root{
+      --pink-main:#e8a9d6;
+      --pink-box:#fed6ff;
+      --pink-bg:#fff2fa;
+      --blue-accent:#b3cfff;
+      --text-main:#2b2340;
+    }
+
+    /* Base font */
+body{
+  font-family:'Poppins',system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  background:linear-gradient(120deg,#f8e3f0,#d1e3ff);
+  color:var(--text-main);
+  margin:0;
+  min-height:100vh;
+  font-size:17px;
+}
+
+/* Main page heading */
+header{
+  padding:22px 16px;
+  text-align:center;
+  background:linear-gradient(90deg,var(--pink-main),var(--blue-accent));
+  color:#fff;
+  font-size:2.4em;
+  font-weight:700;
+  letter-spacing:1px;
+  box-shadow:0 4px 12px #0000001a;
+  font-family:'Orbitron','Poppins',system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+}
+
+/* Hero title */
+.hero-text h1{
+  font-family:'Orbitron','Poppins',system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  font-size:2.6em;
+  margin:0 0 12px;
+  letter-spacing:1px;
+}
+
+
+    .status-bar{
+      background:#fff;
+      text-align:center;
+      padding:10px;
+      font-size:.95em;
+      border-bottom:1px solid #eee;
+    }
+
+    .filters{
+      display:flex;
+      flex-wrap:wrap;
+      gap:14px;
+      padding:20px;
+      justify-content:center;
+      background:var(--pink-bg);
+    }
+
+    .filter-group{
+      display:flex;
+      flex-direction:column;
+      background:var(--pink-box);
+      border-radius:14px;
+      padding:12px 10px;
+      flex:1 1 calc(33.33% - 20px);   /* 3 per row -> 2 rows on desktop */
+      min-width:180px;
+      max-width:260px;
+      box-shadow:0 2px 8px rgba(0,0,0,0.04);
+    }
+
+    .filter-group label{
+      font-weight:700;
+      margin-bottom:6px;
+      color:#4c3273;
+      font-size:0.95em;
+    }
+
+    select{
+      border:2px solid var(--pink-main);
+      border-radius:9px;
+      padding:6px;
+      background:var(--pink-box);  /* same pink as box */
+      color:var(--text-main);
+      height:112px;
+      font-size:0.95em;
+      outline:none;
+    }
+
+    .pink-btn{
+      background:linear-gradient(90deg,var(--pink-main),var(--blue-accent));
+      border:none;
+      border-radius:20px;
+      padding:12px 30px;
+      margin:8px 0;
+      color:#4c3273;
+      font-weight:700;
+      cursor:pointer;
+      transition:.3s;
+      font-size:0.95em;
+      box-shadow:0 4px 14px rgba(232,169,214,0.6);
+    }
+    .pink-btn:hover:not(:disabled){
+      transform:translateY(-2px);
+      box-shadow:0 6px 18px rgba(179,207,255,0.8);
+    }
+    .pink-btn:disabled{
+      opacity:.6;
+      cursor:not-allowed;
+      box-shadow:none;
+    }
+    .reset-btn{
+      background:#fff;
+      border:2px solid var(--pink-main);
+      box-shadow:none;
+    }
+    .reset-btn:hover{
+      background:#ffe9f7;
+    }
+
+    .cards{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+      gap:20px;
+      max-width:1200px;
+      margin:20px auto 40px;
+      padding:0 20px 20px;
+    }
+
+    .stock-card{
+      background:#fff;
+      border-radius:18px;
+      padding:20px;
+      box-shadow:0 4px 12px #0000000d;
+      transition:.3s;
+      position:relative;
+    }
+    .stock-card:hover{
+      transform:translateY(-5px);
+      box-shadow:0 8px 24px rgba(232,169,214,0.5);
+    }
+
+    .tags{
+      display:flex;
+      flex-wrap:wrap;
+      gap:5px;
+      margin:10px 0;
+      font-size:0.78em;
+    }
+    .tag{
+      padding:3px 8px;
+      border-radius:10px;
+      font-weight:600;
+    }
     .tag-reg{background:#e0ecff;color:#0056b3}
     .tag-risk{background:#ffeaea;color:#d63384}
     .tag-eth{background:#eaffea;color:#28a745}
-    .modal{display:none;position:fixed;inset:0;background:#00000099;justify-content:center;align-items:center;z-index:99}
-    .modal-content{background:#fff;padding:30px;border-radius:20px;width:90%;max-width:600px;max-height:90vh;overflow-y:auto;position:relative}
-    .close-btn{position:absolute;top:15px;right:20px;font-size:24px;cursor:pointer}
-    .loader{border:4px solid #f3f3f3;border-top:4px solid #e8a9d6;border-radius:50%;width:30px;height:30px;animation:s 1s linear infinite;margin:20px auto}
+
+    .modal{
+      display:none;
+      position:fixed;
+      inset:0;
+      background:#00000099;
+      justify-content:center;
+      align-items:center;
+      z-index:99;
+    }
+    .modal-content{
+      background:#fff;
+      padding:30px;
+      border-radius:20px;
+      width:90%;
+      max-width:600px;
+      max-height:90vh;
+      overflow-y:auto;
+      position:relative;
+    }
+    .close-btn{
+      position:absolute;
+      top:15px;
+      right:20px;
+      font-size:24px;
+      cursor:pointer;
+    }
+    .loader{
+      border:4px solid #f3f3f3;
+      border-top:4px solid var(--pink-main);
+      border-radius:50%;
+      width:30px;
+      height:30px;
+      animation:s 1s linear infinite;
+      margin:20px auto;
+    }
     @keyframes s{to{transform:rotate(360deg)}}
-    .ai-box{background:#f0f7ff;border-left:4px solid #b3cfff;padding:15px;margin:15px 0;border-radius:0 8px 8px 0}
-    .bull{border-left-color:#28a745;background:#eaffea}.bear{border-left-color:#dc3545;background:#ffeaea}
+
+    .ai-box{
+      background:#f0f7ff;
+      border-left:4px solid var(--blue-accent);
+      padding:15px;
+      margin:15px 0;
+      border-radius:0 8px 8px 0;
+    }
+    .bull{border-left-color:#28a745;background:#eaffea}
+    .bear{border-left-color:#dc3545;background:#ffeaea}
+
+    /* HERO / IMAGE AREA */
+    .hero{
+      max-width:1200px;
+      margin:35px auto 10px;
+      padding:28px 24px;
+      border-radius:26px;
+      background:radial-gradient(circle at top left,rgba(232,169,214,0.5),transparent 55%),
+                 radial-gradient(circle at bottom right,rgba(179,207,255,0.5),transparent 55%),
+                 #1a1240;
+      color:#fdf4ff;
+      box-shadow:0 10px 40px rgba(0,0,0,0.25);
+      overflow:hidden;
+    }
+    .hero.hidden{display:none;}
+
+    .hero-inner{
+      display:flex;
+      flex-wrap:wrap;
+      gap:24px;
+      align-items:center;
+    }
+    .hero-text{
+      flex:1 1 260px;
+      min-width:0;
+    }
+    .hero-text h1{
+      font-family:'Fussion','Space Grotesk',sans-serif;
+      font-size:2.6em;
+      margin:0 0 12px;
+      letter-spacing:1px;
+    }
+    .hero-text p{
+      margin:0;
+      font-size:1.02em;
+      opacity:0.9;
+    }
+
+    .hero-images{
+      flex:1 1 260px;
+      display:flex;
+      justify-content:flex-end;
+      gap:14px;
+      position:relative;
+    }
+    .hero-img{
+      border-radius:22px;
+      object-fit:cover;
+      box-shadow:0 10px 30px rgba(0,0,0,0.4);
+    }
+    .hero-img.main{
+      width:260px;
+      height:180px;
+    }
+    .hero-img.sub{
+      width:160px;
+      height:120px;
+      align-self:flex-end;
+      opacity:0.9;
+      border:2px solid rgba(255,255,255,0.6);
+    }
+
+    .hero-stats{
+      display:flex;
+      gap:24px;
+      flex-wrap:wrap;
+      margin-top:22px;
+    }
+    .stat-box{
+      background:rgba(12,8,40,0.85);
+      padding:14px 18px;
+      border-radius:14px;
+      min-width:150px;
+      font-size:0.86em;
+      box-shadow:0 4px 16px rgba(0,0,0,0.35);
+    }
+    .stat-box h3{
+      margin:0 0 4px;
+      font-size:1.4em;
+      color:#ffd9ff;
+    }
+    .stat-box p{
+      margin:0;
+      color:#c3b7ff;
+    }
+
+    footer{
+      text-align:center;
+      padding:18px 10px 26px;
+      color:#6b5f88;
+      font-size:0.9em;
+    }
+
+    @media(max-width:800px){
+      .filter-group{flex:1 1 calc(50% - 18px);}
+      header{font-size:2em;}
+    }
+    @media(max-width:560px){
+      .filter-group{flex:1 1 100%;}
+      .hero-inner{flex-direction:column;}
+      .hero-images{justify-content:center;}
+    }
   </style>
 </head>
 <body>
 
-<header>S&P 500 Live Estimator</header>
+<header>AI S&P 500 Estimator</header>
 <div class="status-bar" id="status">Initializing...</div>
 
 <div class="filters">
@@ -46,17 +334,56 @@
   <div class="filter-group"><label>Ethics/Future</label><select id="eth" multiple></select></div>
   <div class="filter-group"><label>Sector</label><select id="sec" multiple></select></div>
   <div class="filter-group"><label>Sub-Industry</label><select id="sub" multiple></select></div>
-  
-  <div class="filter-group" style="align-items:center;justify-content:center;background:none;max-width:150px">
+  <div class="filter-group" style="align-items:center;justify-content:center;background:none;box-shadow:none">
     <button class="pink-btn" id="btn" disabled>Search</button>
+    <button class="pink-btn reset-btn" id="resetBtn">Reset All</button>
     <small>Assets: <span id="cnt">0</span></small>
+  </div>
+</div>
+
+<!-- HERO with your two images -->
+<div class="hero" id="hero">
+  <div class="hero-inner">
+    <div class="hero-text">
+      <h1>Visual Alpha Scanner</h1>
+      <p>Blend technical signals with intuitive filters for region, risk and ethics. Start above, then let the live charts from Stooq guide your next move.</p>
+    </div>
+    <div class="hero-images">
+      
+      <!-- Stock Photos -->
+      <img src="https://media.istockphoto.com/id/1358927461/photo/currency-and-exchange-stock-chart-for-finance-and-economy-display.jpg?s=612x612&w=0&k=20&c=vkAkyHjS9zXQJGw9eQXrD4e7nxGW4xHs-y1Qox-92DA=" alt="Melting dollar sign over market grid" class="hero-img main">
+      <img src="https://money.com/wp-content/uploads/2025/08/Investing-Are-US-Stocks-Overvalued.jpg?quality=60&w=1200" alt="Candlestick chart magnified" class="hero-img sub">
+    </div>
+  </div>
+
+  <div class="hero-stats">
+    <div class="stat-box">
+      <h3 id="heroCount">0</h3>
+      <p>Stocks in universe</p>
+    </div>
+    <div class="stat-box">
+      <h3>5</h3>
+      <p>Smart filters</p>
+    </div>
+    <div class="stat-box">
+      <h3>CSV</h3>
+      <p>Direct Stooq market feed</p>
+    </div>
   </div>
 </div>
 
 <div class="cards" id="res"></div>
 
-<div class="modal" id="mod"><div class="modal-content"><span class="close-btn">&times;</span><div id="modBody"></div></div></div>
-<footer><center>Data enriched with Region, Risk & Ethics scoring. Not financial advice.</center></footer>
+<div class="modal" id="mod">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <div id="modBody"></div>
+  </div>
+</div>
+
+<footer>
+  Data sourced from GitHub JSON universe & Stooq daily CSV price history. Not financial advice.[web:27]
+</footer>
 
 <script>
 let stocks = [], chartInst = null;
@@ -65,74 +392,99 @@ const LIST_API = "https://raw.githubusercontent.com/hannahsch999/Stocks/main/sp5
 $(async () => {
   try {
     const raw = await $.getJSON(`https://corsproxy.io/?${encodeURIComponent(LIST_API)}`);
-    
-    // Map the JSON data with new Region, Risk, and Ethics fields
+
     stocks = raw.map(i => ({
-      t: i.Symbol || i.Ticker, 
+      t: i.Symbol || i.Ticker,
       n: i.Name || i.Security,
-      s: i['GICS Sector'] || i.Sector || 'Other',
-      ss: i['GICS Sub-Industry'] || i.subSector || 'Other',
-      region: i.Region || 'North America',
-      risk: i.Risk || 'Medium (Growth)',
-      ethics: i.Ethics || 'Neutral'
+      s: i["GICS Sector"] || i.Sector || "Other",
+      ss: i["GICS Sub-Industry"] || i.subSector || "Other",
+      region: i.Region || "North America",
+      risk: i.Risk || "Medium (Growth)",
+      ethics: i.Ethics || "Neutral",
     })).filter(s => s.t && s.s);
 
-    $('#cnt').text(stocks.length);
-    $('#status').html(`<span style="color:#28a745">System Ready (${stocks.length} assets)</span>`);
-    $('#btn').prop('disabled', false);
+    $("#cnt, #heroCount").text(stocks.length);
+    $("#status").html(`<span style="color:#28a745">System Ready (${stocks.length} assets)</span>`);
+    $("#btn").prop("disabled", false);
 
-    // Populate all filter dropdowns with unique values
-    const populate = (id, data) => data.forEach(x => $(id).append(new Option(x, x)));
-    
-    populate('#reg', [...new Set(stocks.map(s => s.region))].sort());
-    populate('#rsk', [...new Set(stocks.map(s => s.risk))].sort());
-    populate('#eth', [...new Set(stocks.map(s => s.ethics))].sort());
-    populate('#sec', [...new Set(stocks.map(s => s.s))].sort());
-    
-    updateSubSectors();
-    $('#sec').on('change', updateSubSectors);
+    updateAllFilters();
+    $("#reg, #rsk, #eth, #sec").on("change", updateAllFilters);
 
-  } catch(e) { 
-    $('#status').html(`<span style="color:#dc3545">Data Load Error: ${e.message}</span>`); 
+  } catch (e) {
+    $("#status").html(`<span style="color:#dc3545">Data Load Error: ${e.message}</span>`);
     console.error(e);
   }
 });
 
-function updateSubSectors() {
-  const selSec = $('#sec').val() || [];
-  const rel = selSec.length ? stocks.filter(s => selSec.includes(s.s)) : stocks;
-  const subs = [...new Set(rel.map(s => s.ss))].sort();
-  
-  $('#sub').empty();
-  subs.forEach(s => $('#sub').append(new Option(s, s)));
+// recompute valid options based on current selections
+function updateAllFilters() {
+  const selReg = $("#reg").val() || [];
+  const selRsk = $("#rsk").val() || [];
+  const selEth = $("#eth").val() || [];
+  const selSec = $("#sec").val() || [];
+
+  let filtered = stocks.filter(s =>
+    (!selReg.length || selReg.includes(s.region)) &&
+    (!selRsk.length || selRsk.includes(s.risk)) &&
+    (!selEth.length || selEth.includes(s.ethics)) &&
+    (!selSec.length || selSec.includes(s.s))
+  );
+
+  updateDropdown("#reg", [...new Set(filtered.map(s => s.region))].sort(), selReg);
+  updateDropdown("#rsk", [...new Set(filtered.map(s => s.risk))].sort(), selRsk);
+  updateDropdown("#eth", [...new Set(filtered.map(s => s.ethics))].sort(), selEth);
+  updateDropdown("#sec", [...new Set(filtered.map(s => s.s))].sort(), selSec);
+  updateDropdown("#sub", [...new Set(filtered.map(s => s.ss))].sort(), []);
 }
 
-$('#btn').click(() => {
-  // Get selected filter values from all 5 dropdowns
-  const fReg = $('#reg').val() || [];
-  const fRsk = $('#rsk').val() || [];
-  const fEth = $('#eth').val() || [];
-  const fSec = $('#sec').val() || [];
-  const fSub = $('#sub').val() || [];
-  
-  // Apply multiple filter conditions
-  let m = stocks.filter(s => 
-    (!fReg.length || fReg.includes(s.region)) &&
-    (!fRsk.length || fRsk.includes(s.risk)) &&
-    (!fEth.length || fEth.includes(s.ethics)) &&
-    (!fSec.length || fSec.includes(s.s)) &&
-    (!fSub.length || fSub.includes(s.ss))
-  ).sort(() => .5 - Math.random()).slice(0, 20);
+function updateDropdown(id, options, selected) {
+  const $select = $(id);
+  $select.empty();
+  options.forEach(opt => {
+    const $o = $("<option>").val(opt).text(opt);
+    if (selected.includes(opt)) $o.prop("selected", true);
+    $select.append($o);
+  });
+}
 
-  $('#res').empty();
-  if(!m.length) return $('#res').html('<p style="text-align:center;width:100%">No matches found.</p>');
+// reset all selections & show hero again
+$("#resetBtn").click(() => {
+  $("#reg, #rsk, #eth, #sec, #sub").val(null).trigger("change");
+  updateAllFilters();
+  $("#res").empty();
+  $("#hero").removeClass("hidden");
+});
+
+$("#btn").click(() => {
+  const fReg = $("#reg").val() || [];
+  const fRsk = $("#rsk").val() || [];
+  const fEth = $("#eth").val() || [];
+  const fSec = $("#sec").val() || [];
+  const fSub = $("#sub").val() || [];
+
+  let m = stocks
+    .filter(s =>
+      (!fReg.length || fReg.includes(s.region)) &&
+      (!fRsk.length || fRsk.includes(s.risk)) &&
+      (!fEth.length || fEth.includes(s.ethics)) &&
+      (!fSec.length || fSec.includes(s.s)) &&
+      (!fSub.length || fSub.includes(s.ss))
+    )
+    .sort(() => 0.5 - Math.random())
+    .slice(0, 20);
+
+  $("#res").empty();
+  $("#hero").addClass("hidden");
+
+  if (!m.length)
+    return $("#res").html('<p style="text-align:center;width:100%">No matches found.</p>');
 
   m.forEach(s => {
-    $('#res').append(`
+    $("#res").append(`
       <div class="stock-card">
         <h3>${s.n}</h3>
         <span style="background:#eee;padding:2px 6px;border-radius:4px;font-size:.9em;font-weight:bold">${s.t}</span>
-        
+
         <div class="tags">
           <span class="tag tag-reg">${s.region}</span>
           <span class="tag tag-risk">${s.risk}</span>
@@ -141,53 +493,71 @@ $('#btn').click(() => {
 
         <div style="margin:10px 0;font-size:.85em;color:#666">${s.s} &bull; ${s.ss}</div>
         <button class="pink-btn" style="width:100%;padding:10px;margin:10px 0 0" onclick="show('${s.t}')">Run Prediction</button>
-      </div>`);
+      </div>
+    `);
   });
 });
 
 async function show(t) {
-  $('#mod').css('display','flex').fadeIn();
-  $('#modBody').html('<div class="loader"></div><p style="text-align:center">Fetching market data...</p>');
-  
+  $("#mod").css("display", "flex").fadeIn();
+  $("#modBody").html('<div class="loader"></div><p style="text-align:center">Fetching market data...</p>');
+
   try {
-    const symbol = t.replace('.','-');
+    const symbol = t.replace(".", "-");
     const url = `https://stooq.com/q/d/l/?s=${symbol}.US&i=d`;
     const csv = await $.get(`https://corsproxy.io/?${encodeURIComponent(url)}`);
 
-    const lines = csv.trim().split('\n');
-    if(lines.length < 2) throw new Error("No Data");
-    
-    const rows = lines.slice(1).map(l => l.split(',')).filter(r => r.length > 4);
-    rows.sort((a,b) => a[0].localeCompare(b[0]));
+    const lines = csv.trim().split("\n");
+    if (lines.length < 2) throw new Error("No Data");
+
+    const rows = lines.slice(1).map(l => l.split(",")).filter(r => r.length > 4);
+    rows.sort((a, b) => a[0].localeCompare(b[0]));
     const recent = rows.slice(-50);
-    
+
     const dates = recent.map(r => r[0]);
     const prices = recent.map(r => parseFloat(r[4]));
 
     const cur = prices.at(-1);
-    const sma = prices.reduce((a,b)=>a+b,0) / prices.length;
+    const sma = prices.reduce((a, b) => a + b, 0) / prices.length;
     const sent = cur > sma ? "Bullish" : "Bearish";
     const cls = sent === "Bullish" ? "bull" : "bear";
 
-    $('#modBody').html(`
+    $("#modBody").html(`
       <h2>${t}</h2>
-      <div class="ai-box ${cls}"><h3>Verdict: ${sent}</h3><p>Signal: ${sent === "Bullish" ? "Strong Buy" : "Sell"}</p></div>
+      <div class="ai-box ${cls}">
+        <h3>Verdict: ${sent}</h3>
+        <p>Signal: ${sent === "Bullish" ? "Strong Buy" : "Sell"}</p>
+      </div>
       <canvas id="cvs"></canvas>
     `);
 
-    if(chartInst) chartInst.destroy();
-    chartInst = new Chart($('#cvs')[0], {
-      type: 'line',
+    if (chartInst) chartInst.destroy();
+    chartInst = new Chart($("#cvs")[0], {
+      type: "line",
       data: {
         labels: dates,
-        datasets: [{ label:'Price', data:prices, borderColor:'#e8a9d6', fill:true, backgroundColor:'#e8a9d633', tension:0.3 }]
-      }
+        datasets: [
+          {
+            label: "Price",
+            data: prices,
+            borderColor: "#e8a9d6",
+            fill: true,
+            backgroundColor: "#e8a9d633",
+            tension: 0.3,
+          },
+        ],
+      },
     });
-
-  } catch(e) { $('#modBody').html(`<h3 style="color:red">Error</h3><p>Failed to load data.</p><small>${e.message}</small>`); }
+  } catch (e) {
+    $("#modBody").html(
+      `<h3 style="color:red">Error</h3><p>Failed to load data.</p><small>${e.message}</small>`
+    );
+  }
 }
 
-$('.close-btn, .modal').click(e => { if(e.target === e.currentTarget) $('#mod').fadeOut(); });
+$(".close-btn, .modal").click(e => {
+  if (e.target === e.currentTarget) $("#mod").fadeOut();
+});
 </script>
 </body>
 </html>
