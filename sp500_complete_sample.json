@@ -3463,5 +3463,50 @@
     "Region": "North America",
     "Risk": "Medium (Growth)",
     "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VGK",
+    "Name": "Vanguard FTSE Europe ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EZU",
+    "Name": "iShares Eurozone ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Eurozone",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWL",
+    "Name": "iShares MSCI Switzerland ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "SAP",
+    "Name": "SAP SE",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "ASML",
+    "Name": "ASML Holding",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductor Equipment",
+    "Region": "Europe",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
   }
 ]
