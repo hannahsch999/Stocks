@@ -3464,4 +3464,698 @@
     "Risk": "Medium (Growth)",
     "Ethics": "Neutral"
   }
+    {
+    "Symbol": "SPY",
+    "Name": "SPDR S&P 500 ETF Trust",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Large Cap Blend",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VOO",
+    "Name": "Vanguard S&P 500 ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Large Cap Blend",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "IVV",
+    "Name": "iShares Core S&P 500 ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Large Cap Blend",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "QQQ",
+    "Name": "Invesco QQQ Trust",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Technology/Growth",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "VUG",
+    "Name": "Vanguard Growth ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Large Cap Growth",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VTV",
+    "Name": "Vanguard Value ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Large Cap Value",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "IWM",
+    "Name": "iShares Russell 2000 ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Small Cap",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VT",
+    "Name": "Vanguard Total World Stock ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Global All Cap",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VEA",
+    "Name": "Vanguard FTSE Developed Markets ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Developed Markets",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VGK",
+    "Name": "Vanguard FTSE Europe ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EZU",
+    "Name": "iShares Eurozone ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Eurozone",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWG",
+    "Name": "iShares MSCI Germany ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWQ",
+    "Name": "iShares MSCI France ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWI",
+    "Name": "iShares MSCI Italy ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "EWU",
+    "Name": "iShares MSCI United Kingdom ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWL",
+    "Name": "iShares MSCI Switzerland ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Single Country Europe",
+    "Region": "Europe",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EEM",
+    "Name": "iShares MSCI Emerging Markets ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Emerging Markets",
+    "Region": "Emerging Markets",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VWO",
+    "Name": "Vanguard FTSE Emerging Markets ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Emerging Markets",
+    "Region": "Emerging Markets",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "FXI",
+    "Name": "iShares China Large-Cap ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - China Large Cap",
+    "Region": "Asia-Pacific",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWJ",
+    "Name": "iShares MSCI Japan ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Japan",
+    "Region": "Asia-Pacific",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "EWA",
+    "Name": "iShares MSCI Australia ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Australia",
+    "Region": "Asia-Pacific",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "XLE",
+    "Name": "Energy Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Energy",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Controversial"
+  },
+  {
+    "Symbol": "XLF",
+    "Name": "Financial Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Financials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "XLK",
+    "Name": "Technology Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Technology",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "XLV",
+    "Name": "Health Care Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Health Care",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "XLY",
+    "Name": "Consumer Discretionary Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Consumer Discretionary",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "XLP",
+    "Name": "Consumer Staples Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Consumer Staples",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "XLI",
+    "Name": "Industrial Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Industrials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "XLU",
+    "Name": "Utilities Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Utilities",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "XLB",
+    "Name": "Materials Select Sector SPDR Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Sector - Materials",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "VNQ",
+    "Name": "Vanguard Real Estate ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Real Estate",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "SCHD",
+    "Name": "Schwab U.S. Dividend Equity ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Dividend",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "VYM",
+    "Name": "Vanguard High Dividend Yield ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Dividend",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "ARKK",
+    "Name": "ARK Innovation ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Equity - Disruptive Innovation",
+    "Region": "Global",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "GLD",
+    "Name": "SPDR Gold Shares",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Commodities - Precious Metals",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "SLV",
+    "Name": "iShares Silver Trust",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Commodities - Precious Metals",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "USO",
+    "Name": "United States Oil Fund",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Commodities - Energy",
+    "Region": "Global",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Controversial"
+  },
+  {
+    "Symbol": "BND",
+    "Name": "Vanguard Total Bond Market ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Fixed Income - Broad US",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "AGG",
+    "Name": "iShares Core U.S. Aggregate Bond ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Fixed Income - Broad US",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "LQD",
+    "Name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Fixed Income - Corporate",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "TLT",
+    "Name": "iShares 20+ Year Treasury Bond ETF",
+    "GICS Sector": "ETF",
+    "GICS Sub-Industry": "Fixed Income - Treasury",
+    "Region": "North America",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+
+  {
+    "Symbol": "SAP",
+    "Name": "SAP SE",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Application Software",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "ASML",
+    "Name": "ASML Holding",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductor Equipment",
+    "Region": "Europe",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "NVO",
+    "Name": "Novo Nordisk",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "SNY",
+    "Name": "Sanofi",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "AZN",
+    "Name": "AstraZeneca",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "RHHBY",
+    "Name": "Roche Holding (ADR)",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "BAYRY",
+    "Name": "Bayer (ADR)",
+    "GICS Sector": "Health Care",
+    "GICS Sub-Industry": "Pharmaceuticals",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
+  },
+  {
+    "Symbol": "SIEGY",
+    "Name": "Siemens (ADR)",
+    "GICS Sector": "Industrials",
+    "GICS Sub-Industry": "Industrial Conglomerates",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "DEO",
+    "Name": "Diageo",
+    "GICS Sector": "Consumer Staples",
+    "GICS Sub-Industry": "Distillers & Vintners",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "UL",
+    "Name": "Unilever PLC",
+    "GICS Sector": "Consumer Staples",
+    "GICS Sub-Industry": "Personal Products",
+    "Region": "Europe",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "NGG",
+    "Name": "National Grid PLC",
+    "GICS Sector": "Utilities",
+    "GICS Sub-Industry": "Multi-Utilities",
+    "Region": "Europe",
+    "Risk": "Low (Blue Chip)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "BTI",
+    "Name": "British American Tobacco",
+    "GICS Sector": "Consumer Staples",
+    "GICS Sub-Industry": "Tobacco",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Controversial"
+  },
+  {
+    "Symbol": "HDB",
+    "Name": "HDFC Bank",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "Emerging Markets",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "IBN",
+    "Name": "ICICI Bank",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "Emerging Markets",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "MELI",
+    "Name": "MercadoLibre",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Internet & Direct Marketing Retail",
+    "Region": "Emerging Markets",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "SHOP",
+    "Name": "Shopify",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Internet Services & Infrastructure",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "SQ",
+    "Name": "Block Inc.",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Transaction & Payment Processing Services",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "PLTR",
+    "Name": "Palantir Technologies",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Systems Software",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Controversial"
+  },
+  {
+    "Symbol": "CRWD",
+    "Name": "CrowdStrike",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Systems Software",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "ZM",
+    "Name": "Zoom Video Communications",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "NFLX",
+    "Name": "Netflix",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Movies & Entertainment",
+    "Region": "Global",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "ROKU",
+    "Name": "Roku",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Interactive Home Entertainment",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "FICO",
+    "Name": "Fair Isaac",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Application Software",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "PINS",
+    "Name": "Pinterest",
+    "GICS Sector": "Communication Services",
+    "GICS Sub-Industry": "Interactive Media & Services",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "DOCN",
+    "Name": "DigitalOcean",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Internet Services & Infrastructure",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "RUN",
+    "Name": "Sunrun",
+    "GICS Sector": "Utilities",
+    "GICS Sub-Industry": "Renewable Electricity",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "SEDG",
+    "Name": "SolarEdge Technologies",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Electrical Components & Equipment",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "ENPH",
+    "Name": "Enphase Energy",
+    "GICS Sector": "Information Technology",
+    "GICS Sub-Industry": "Semiconductors",
+    "Region": "North America",
+    "Risk": "High (Speculative)",
+    "Ethics": "ESG Leader"
+  },
+  {
+    "Symbol": "TSLA",
+    "Name": "Tesla",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "Global",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "RIVN",
+    "Name": "Rivian Automotive",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "LCID",
+    "Name": "Lucid Group",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "North America",
+    "Risk": "Extreme (Volatile)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "BYDDY",
+    "Name": "BYD Company (ADR)",
+    "GICS Sector": "Consumer Discretionary",
+    "GICS Sub-Industry": "Automobile Manufacturers",
+    "Region": "Asia-Pacific",
+    "Risk": "High (Speculative)",
+    "Ethics": "Future-Proof"
+  },
+  {
+    "Symbol": "RIO",
+    "Name": "Rio Tinto",
+    "GICS Sector": "Materials",
+    "GICS Sub-Industry": "Metals & Mining",
+    "Region": "Europe",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "BHP",
+    "Name": "BHP Group",
+    "GICS Sector": "Materials",
+    "GICS Sub-Industry": "Metals & Mining",
+    "Region": "Asia-Pacific",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Old School"
+  },
+  {
+    "Symbol": "TD",
+    "Name": "Toronto-Dominion Bank",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  },
+  {
+    "Symbol": "RY",
+    "Name": "Royal Bank of Canada",
+    "GICS Sector": "Financials",
+    "GICS Sub-Industry": "Diversified Banks",
+    "Region": "North America",
+    "Risk": "Medium (Growth)",
+    "Ethics": "Neutral"
+  }
 ]
